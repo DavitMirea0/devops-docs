@@ -1,3 +1,4 @@
+
 """Формирование строки состояния для учебного репозитория."""
 
 def format_status(version: str, deployed: bool) -> str:
